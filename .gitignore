@@ -1,0 +1,35 @@
+# Ignore database directory created by Developer
+/database/
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore build artifacts and temporary files
+/build/
+*.swp
+*.swo
+*.log
+*.cache
+
+# Ignore database credentials and connection configuration
+db.php
+
+# Ignore sensitive information and user-specific settings
+.env
+.env.example
+
+# Ignore dependency lock files
+composer.lock
+package-lock.json
+
+# Ignore web server specific files and configurations
+.htaccess
+
+# Ignore backup and compressed files
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore any generated files or directories
+/generated/
