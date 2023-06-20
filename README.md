@@ -18,7 +18,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- PHP (version 1.2.1)
+- PHP (version 8.2.1)
 - MySQL (version X.X.X)
 - Web server (Apache, Nginx, etc.)
 

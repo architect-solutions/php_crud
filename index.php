@@ -1,5 +1,7 @@
 <!-- Header -->
 <?php include "header.php" ?>
+<!-- Update Checker file -->
+<?php include "update.php" ?>
 
 <!-- body -->
 <div class="container mt-5">
