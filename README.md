@@ -18,8 +18,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- PHP (version 8.2.1)
-- MySQL (version X.X.X)
+- PHP (version 8.2.4)
+- MySQL (version 8.2.4)
 - Web server (Apache, Nginx, etc.)
 
 ### Installation

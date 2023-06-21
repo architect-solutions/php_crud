@@ -18,5 +18,14 @@
   </div>
 </div>
 
+
+
+<div class="blockquote-footer fixed-bottom">
+    <?php  
+    // Output the local version
+    echo 'Current Version: ' . $localVersion;
+    ?>
+</div>
+
 <!-- Footer -->
 <?php include "footer.php" ?>
