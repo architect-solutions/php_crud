@@ -8,8 +8,8 @@ $username = 'architect-solutions';
 $repositoryName = 'php_crud';
 
 // Get the local release tag
-// $localVersion = trim(shell_exec('git describe --abbrev=0 --tags'));
-$localVersion = 'v1.2.0';
+$localVersion = trim(shell_exec('git describe --abbrev=0 --tags'));
+//$localVersion = 'v1.2.0';
 
 
 // Initialize the GitHub client
